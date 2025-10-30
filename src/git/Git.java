@@ -26,7 +26,6 @@ public class Git {
         
         
         //Edgar izurieta
-        //Juan Pablo Vayas
     }
     
 }
