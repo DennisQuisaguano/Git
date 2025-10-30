@@ -16,12 +16,20 @@ public class Git {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("Git");
-        System.out.println("Git develop");
-        System.out.println("hola julio jacho");
-        System.out.println("hola soy Dennis ");
+        System.out.println("hola soy Julio Jacho");
+        
+        
+        System.out.println("hola soy Edgar Izurieta");
+        
         System.out.println("Hola soy Juan Vayas");
-        System.out.println("Hola soy Alexis");
-        System.out.println("Hola soy Josue LL");
+        
+        
+        
+        
+        
+        
+        
+        //Edgar izurieta
     }
     
 }
