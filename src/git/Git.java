@@ -21,6 +21,7 @@ public class Git {
         
         System.out.println("hola soy Edgar Izurieta");
         
+        System.out.println("Hola soy Juan Vayas");
         
         
         
